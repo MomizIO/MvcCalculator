@@ -54,14 +54,22 @@
 		81CC034020BE01AF0089C383 /* MvcCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				81CC034120BE01AF0089C383 /* AppDelegate.swift */,
 				81CC034320BE01AF0089C383 /* ViewController.swift */,
 				81CC034520BE01AF0089C383 /* Main.storyboard */,
-				81CC034820BE01B00089C383 /* Assets.xcassets */,
-				81CC034A20BE01B00089C383 /* LaunchScreen.storyboard */,
-				81CC034D20BE01B00089C383 /* Info.plist */,
+				81CC035320BE03560089C383 /* Supporting Files */,
 			);
 			path = MvcCalculator;
+			sourceTree = "<group>";
+		};
+		81CC035320BE03560089C383 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				81CC034D20BE01B00089C383 /* Info.plist */,
+				81CC034A20BE01B00089C383 /* LaunchScreen.storyboard */,
+				81CC034820BE01B00089C383 /* Assets.xcassets */,
+				81CC034120BE01AF0089C383 /* AppDelegate.swift */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
